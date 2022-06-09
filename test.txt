@@ -6,4 +6,8 @@ Git is free software.
 
 very good!
 
-branch master.
+<<<<<<< HEAD
+Creating a new branch feature1.
+=======
+Creating a new branch feature1.
+>>>>>>> feature1
