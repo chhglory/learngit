@@ -1,7 +1,7 @@
 This is a test.
 
 
-Git is free software.
+Git is a free software.
 
 
 very good!
