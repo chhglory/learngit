@@ -6,8 +6,6 @@ Git is free software.
 
 very good!
 
-<<<<<<< HEAD
 Creating a new branch feature1.
-=======
-Creating a new branch feature1.
->>>>>>> feature1
+
+add merge.
